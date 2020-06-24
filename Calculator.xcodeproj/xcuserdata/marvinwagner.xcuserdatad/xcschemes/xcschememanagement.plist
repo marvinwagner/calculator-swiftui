@@ -6,8 +6,23 @@
 	<dict>
 		<key>Calculator.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E21D127524A0D06A00653199</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E2281870249D413E00B1F229</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

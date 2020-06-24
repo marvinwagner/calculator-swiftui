@@ -16,3 +16,5 @@ Download the project, open with Xcode and run!
 * Layout with SwiftUI
 * Dark and light theme
 * Unit tests
+
+Design inspired by this [post](https://dribbble.com/shots/5846238-Day-4-Calculator)
